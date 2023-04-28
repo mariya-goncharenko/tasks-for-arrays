@@ -27,6 +27,15 @@
         <div class="task">
 			<?php require './tasks/task-05.php'; ?>
 		</div>
+        <div class="task">
+			<?php require './tasks/task-06.php'; ?>
+		</div>
+        <div class="task">
+			<?php require './tasks/task-07.php'; ?>
+		</div>
+        <div class="task">
+			<?php require './tasks/task-08.php'; ?>
+		</div>
 
 
         <div class="task">
