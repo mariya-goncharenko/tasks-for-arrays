@@ -36,10 +36,14 @@
         <div class="task">
 			<?php require './tasks/task-08.php'; ?>
 		</div>
-
-
         <div class="task">
 			<?php require './tasks/task-09.php'; ?>
+		</div>
+        <div class="task">
+			<?php require './tasks/task-10.php'; ?>
+		</div>
+        <div class="task">
+			<?php require './tasks/task-13.php'; ?>
 		</div>
 	</div>
 </body>
